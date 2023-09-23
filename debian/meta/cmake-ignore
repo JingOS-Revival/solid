@@ -1,0 +1,8 @@
+- Solid::Job
+- Solid::PowerManagement
+- MediaPlayerInfo
+- QCH , API documentation in QCH format (for e.g. Qt Assistant, Qt Creator & KDevelop):
+  series: xenial
+- Solid::Job , WIP: Base class for Solid Asynchronous apis
+- Solid::PowerManagement , WIP: Freedesktop backend for the asynchronous api
+- MediaPlayerInfo , Enables identification and querying of portable media players , <http://www.freedesktop.org/wiki/Software/media-player-info>

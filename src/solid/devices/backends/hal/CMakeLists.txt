@@ -1,0 +1,17 @@
+set(backend_sources
+    halbattery.cpp
+    halblock.cpp
+    halcamera.cpp
+    halcdrom.cpp
+    haldeviceinterface.cpp
+    halfstabhandling.cpp
+    halgenericinterface.cpp
+    haldevice.cpp
+    halmanager.cpp
+    halopticaldisc.cpp
+    halportablemediaplayer.cpp
+    halprocessor.cpp
+    halstorageaccess.cpp
+    halstorage.cpp
+    halvolume.cpp
+)

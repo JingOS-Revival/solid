@@ -1,0 +1,798 @@
+solid (5.78.0) focal; urgency=medium
+
+  * Format version
+
+ -- JingOS CI <jingos@jingos.com>  Fri, 19 Nov 2021 16:18:16 +0800
+
+solid (5.78.0-0neon) focal; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Sat, 09 Jan 2021 12:27:18 +0000
+
+solid (5.77.0-0neon) focal; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Sat, 12 Dec 2020 14:08:37 +0000
+
+solid (5.76.0-0neon) focal; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Thu, 19 Nov 2020 11:33:30 +0000
+
+solid (5.75.0-0neon) focal; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 09 Oct 2020 13:43:31 +0000
+
+solid (5.74.0-0neon) focal; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Thu, 10 Sep 2020 13:34:46 +0000
+
+solid (5.73.0-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Mon, 17 Aug 2020 19:09:48 +0000
+
+solid (5.72.0-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Sat, 11 Jul 2020 15:53:13 +0000
+
+solid (5.71.0-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 12 Jun 2020 18:58:18 +0000
+
+solid (5.70.0-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 08 May 2020 15:44:08 +0000
+
+solid (5.69.0-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Sat, 11 Apr 2020 18:22:09 +0000
+
+solid (5.68.0-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 13 Mar 2020 13:24:15 +0000
+
+solid (5.67.0-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 07 Feb 2020 21:07:14 +0000
+
+solid (5.66.0-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 10 Jan 2020 13:27:18 +0000
+
+solid (5.65.0-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Sat, 14 Dec 2019 11:36:45 +0000
+
+solid (5.64.0-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 08 Nov 2019 14:04:06 +0000
+
+solid (5.63.0-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 11 Oct 2019 21:22:46 +0000
+
+solid (5.62.0-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Mon, 16 Sep 2019 11:23:29 +0000
+
+solid (5.61.90-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Sun, 11 Aug 2019 18:56:12 +0000
+
+solid (5.60.0-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Sat, 13 Jul 2019 15:49:47 +0000
+
+solid (5.59.0-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 07 Jun 2019 18:14:32 +0000
+
+solid (5.58.0-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 10 May 2019 13:18:28 +0000
+
+solid (5.57.0-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 12 Apr 2019 08:46:41 +0000
+
+solid (5.56.0-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Sat, 09 Mar 2019 16:01:44 +0000
+
+solid (5.55.0-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Sun, 10 Feb 2019 22:38:15 +0000
+
+solid (5.54.0-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 11 Jan 2019 15:47:55 +0000
+
+solid (5.53.0-0neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 12 Dec 2018 10:44:11 +0000
+
+solid (5.52.0-1neon) bionic; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Sat, 10 Nov 2018 16:29:56 +0000
+
+solid (5.51.0-1) unstable; urgency=medium
+
+  * New upstream release (5.50.0).
+  * Update build-deps and deps with the info from cmake
+  * Bump group breaks (5.50)
+  * New upstream release (5.51.0).
+  * Update build-deps and deps with the info from cmake
+  * Update install files
+  * Bump group breaks (5.51)
+  * Release to unstable
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 07 Nov 2018 17:17:39 +0100
+
+solid (5.49.0-1) unstable; urgency=medium
+
+  * New upstream release (5.48.0).
+  * Update build-deps and deps with the info from cmake
+  * New upstream release (5.49.0).
+  * Update build-deps and deps with the info from cmake
+  * Bump group breaks (5.49)
+  * Release to unstable
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 17 Aug 2018 16:19:18 +0200
+
+solid (5.47.0-1) unstable; urgency=medium
+
+  * New upstream release (5.47.0).
+  * Update build-deps and deps with the info from cmake
+  * Bump group breaks (5.47)
+  * Release to unstable
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 15 Jun 2018 12:11:11 +0200
+
+solid (5.46.0-1) unstable; urgency=medium
+
+  * New upstream release (5.46.0).
+  * Update build-deps and deps with the info from cmake
+  * Bump Standards-Version to 4.1.4.
+  * Use https for the debian/copyright
+  * Bump group breaks (5.46)
+  * Release to unstable
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 17 May 2018 22:15:57 +0200
+
+solid (5.45.0-1) unstable; urgency=medium
+
+  * New upstream release (5.45.0).
+  * Update build-deps and deps with the info from cmake
+  * Bump group breaks (5.45)
+  * Release to unstable
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 05 May 2018 08:11:14 +0200
+
+solid (5.44.0-1) sid; urgency=medium
+
+  * New upstream release (5.44.0).
+  * Update build-deps and deps with the info from cmake
+  * Bump group breaks (5.44)
+  * Release to sid
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 21 Mar 2018 14:41:34 +0100
+
+solid (5.43.0-1) experimental; urgency=medium
+
+  * Use the salsa canonical urls
+  * New upstream release (5.43.0).
+  * Update build-deps and deps with the info from cmake
+  * Bump group breaks (5.43)
+  * Release to experimental
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 26 Feb 2018 11:44:25 +0100
+
+solid (5.42.0-2) sid; urgency=medium
+
+  * New revision
+  * Release to sid
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 10 Feb 2018 11:29:26 +0100
+
+solid (5.42.0-1) experimental; urgency=medium
+
+  * New upstream release (5.42.0).
+  * Add link options as-needed
+  * Bump debhelper build-dep and compat to 11.
+  * Build without build_stamp
+  * Update build-deps and deps with the info from cmake
+  * Bump group breaks (5.42)
+  * Bump Standards-Version to 4.1.3.
+  * Release to experimental
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 02 Feb 2018 12:06:18 +0100
+
+solid (5.41.0-1) experimental; urgency=medium
+
+  * New upstream release (5.41.0).
+  * Bump Standards-Version to 4.1.2.
+  * Update build-deps and deps with the info from cmake
+  * Bump group breaks (5.41)
+  * Release to experimental
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 15 Dec 2017 10:43:26 -0300
+
+solid (5.41.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 08 Dec 2017 14:49:17 +0000
+
+solid (5.40.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 10 Nov 2017 12:59:30 +0000
+
+solid (5.39.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Sun, 15 Oct 2017 11:47:59 +0000
+
+solid (5.38.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Mon, 11 Sep 2017 13:32:20 +0000
+
+solid (5.37.0-2) sid; urgency=medium
+
+  * New revision
+  * Bump Standards-Version to 4.1.0.
+  * Update upstream metadata
+  * Release to sid
+
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 03 Sep 2017 09:59:11 +0200
+
+solid (5.37.0-1) experimental; urgency=medium
+
+  * New upstream release (5.37.0).
+  * Update build-deps and deps with the info from cmake
+  * Bump group breaks (5.37)
+  * Add a libkf5solid-doc package for the qch files
+  * Bump Standards-Version to 4.0.1.
+  * Set Priority to optional
+  * Set section for the doc package
+  * Release to experimental
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 16 Aug 2017 10:42:32 +0200
+
+solid (5.37.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 11 Aug 2017 15:19:53 +0000
+
+solid (5.36.0-1) experimental; urgency=medium
+
+  [ Maximiliano Curia ]
+  * New upstream release (5.35.0).
+  * Bump Standards-Version to 4.0.0.
+  * Update build-deps and deps with the info from cmake
+  * Bump group breaks (5.35)
+  * Drop upstream patches
+  * watch: Use https uris
+  * New upstream release (5.36.0).
+  * Bump group breaks (5.36)
+  * Update build-deps and deps with the info from cmake
+  * Drop upstream applied patch: cmake-build-udisks2-backend-on-FreeBSD-only-when-ena.patch
+
+  [ Harald Sitter ]
+  * promote media-player-info from suggests to recommends
+  * acc c++11. now used more liberally
+
+  [ Raymond Wooninck ]
+  * Add signing key
+  * also include signing-key
+
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 09 Jul 2017 23:41:34 +0200
+
+solid (5.36.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Mon, 10 Jul 2017 17:15:30 +0000
+
+solid (5.35.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Sun, 11 Jun 2017 20:38:40 +0000
+
+solid (5.34.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Sun, 14 May 2017 17:43:04 +0000
+
+solid (5.33.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 07 Apr 2017 16:26:41 +0000
+
+solid (5.32.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Sun, 12 Mar 2017 13:24:40 +0000
+
+solid (5.31.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Mon, 13 Feb 2017 14:42:03 +0000
+
+solid (5.30.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Mon, 16 Jan 2017 13:44:45 +0000
+
+solid (5.29.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 09 Dec 2016 19:10:01 +0000
+
+solid (5.28.0-4) unstable; urgency=medium
+
+  * Team upload.
+  * Backport upstream commit f4a272b2b9c3c16f5f0e3aa1e416080aeb045c36 to fix
+    build on kFreeBSD; patch
+    cmake-build-udisks2-backend-on-FreeBSD-only-when-ena.patch.
+  * libkf5solid-bin: limit the udisks2 recommend to Linux architectures.
+
+ -- Pino Toscano <pino@debian.org>  Sun, 18 Jun 2017 16:27:59 +0200
+
+solid (5.28.0-3) unstable; urgency=medium
+
+  * Pick "Work round DBus property fetching bug" (6f1c6dc)
+    Workaround for a qt5 dbus property issue.
+    Add upstream patch as: Work-round-DBus-property-fetching-bug.patch
+    This fixes KDE#345871
+  * Pick "[UDisks 2 Device] Add description for Floppy Disk" (d92588b)
+    Floppy disks now show up as "Floppy Disk" instead of "0 B Removable
+    Media"
+    Add upstream patch as:
+     UDisks-2-Device-Add-description-for-Floppy-Disk.patch
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 08 Apr 2017 19:58:03 +0200
+
+solid (5.28.0-2) unstable; urgency=medium
+
+  * Add patch: fix-FTBFS-on-mipsel-and-m68k-src-solid-predicate_parser.c.patch.
+    Thanks to James Cowgill for the patch (thanks a lot!!) (Closes: 846266)
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 30 Nov 2016 15:57:09 +0100
+
+solid (5.28.0-1) unstable; urgency=medium
+
+  [ Automatic packaging ]
+  * Update build-deps and deps with the info from cmake
+  * Refresh patches
+
+  [ Maximiliano Curia ]
+  * New upstream release (5.28)
+  * Bump group breaks (5.28)
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 18 Nov 2016 16:03:11 +0100
+
+solid (5.28.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Thu, 17 Nov 2016 09:46:41 +0000
+
+solid (5.27.0-1) unstable; urgency=medium
+
+  [ Automatic packaging ]
+  * Update build-deps and deps with the info from cmake
+
+  [ Maximiliano Curia ]
+  * New upstream release (5.27)
+  * Bump group breaks (5.27)
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 15 Oct 2016 16:58:07 +0200
+
+solid (5.27.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Sat, 08 Oct 2016 11:34:18 +0000
+
+solid (5.26.0-1) unstable; urgency=medium
+
+  [ Automatic packaging ]
+  * Update build-deps and deps with the info from cmake
+
+  [ Maximiliano Curia ]
+  * Bump group breaks (5.26)
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 29 Sep 2016 11:58:25 +0200
+
+solid (5.26.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Mon, 12 Sep 2016 08:36:09 +0000
+
+solid (5.25.0-1) unstable; urgency=medium
+
+  [ Automatic packaging ]
+  * Update build-deps and deps with the info from cmake
+
+  [ Maximiliano Curia ]
+  * Bump group breaks (5.25)
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 18 Aug 2016 17:20:25 +0200
+
+solid (5.25.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Sat, 13 Aug 2016 20:17:05 +0000
+
+solid (5.24.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Mon, 11 Jul 2016 07:43:14 +0000
+
+solid (5.23.0-1) unstable; urgency=medium
+
+  [ Automatic packaging ]
+  * Update build-deps and deps with the info from cmake
+  * Refresh patches
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 18 Jun 2016 08:26:11 +0200
+
+solid (5.23.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Mon, 13 Jun 2016 09:40:12 +0000
+
+solid (5.22.0-1) unstable; urgency=medium
+
+  [ Automatic packaging ]
+  * Update build-deps and deps with the info from cmake
+
+  [ Maximiliano Curia ]
+  * Add new patch: use_shortest_filepath.diff
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 18 May 2016 23:50:32 +0200
+
+solid (5.22.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 17 May 2016 07:37:27 +0000
+
+solid (5.21.0-1) experimental; urgency=medium
+
+  [ Maximiliano Curia ]
+  * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
+  * Add upstream metadata (DEP-12)
+  * Drop qt5-qmltooling-plugins build dependency
+  * Update acc test script
+  * uscan no longer supports more than one main upstream tarball being listed
+
+  [ Automatic packaging ]
+  * Update build-deps and deps with the info from cmake
+  * Bump Standards-Version to 3.9.8
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 05 May 2016 18:48:46 +0200
+
+solid (5.21.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Mon, 11 Apr 2016 09:24:37 +0000
+
+solid (5.20.0-0neon) wily; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 01 Apr 2016 11:09:18 +0000
+
+solid (5.19.0-2) experimental; urgency=medium
+
+  * Add missing build dependency.
+  * Bump Standards-Version to 3.9.7, no changes needed.
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 24 Feb 2016 07:18:31 +0100
+
+solid (5.19.0-1) experimental; urgency=medium
+
+  * New upstream release (5.19.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 13 Feb 2016 15:16:03 +0100
+
+solid (5.18.0-1) experimental; urgency=medium
+
+  * New upstream release (5.17.0).
+  * New upstream release (5.18.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 27 Jan 2016 13:33:41 +0100
+
+solid (5.16.0-1) unstable; urgency=medium
+
+  * New upstream release (5.16.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 30 Nov 2015 12:12:58 +0100
+
+solid (5.15.0-1) unstable; urgency=medium
+
+  * New upstream release (5.15.0).
+  * Update symbols files from buildds logs (5.14.0-2).
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 09 Oct 2015 19:16:09 +0200
+
+solid (5.15.0-0ubuntu2) xenial; urgency=medium
+
+  * Fix autopackagetests by adding allow-stderr to the requirements.
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Tue, 03 Nov 2015 15:34:56 +0100
+
+solid (5.15.0-0ubuntu1) wily; urgency=medium
+
+  [ Scarlett Clark ]
+  * Vivid backport
+
+  [ Jonathan Riddell ]
+  * new upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 07 Oct 2015 14:00:21 +0100
+
+solid (5.14.0-2) unstable; urgency=medium
+
+  * Move auto test to autopkgtests.
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 18 Sep 2015 14:12:59 +0200
+
+solid (5.14.0-1) unstable; urgency=medium
+
+  * New upstream release (5.14.0).
+  * Removed private classes from exported symbols.
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 15 Sep 2015 13:48:35 +0200
+
+solid (5.14.0-0ubuntu1) wily; urgency=medium
+
+  * new upstream release
+
+ -- Clive Johnston <clivejo@aol.com>  Thu, 17 Sep 2015 13:29:41 +0100
+
+solid (5.13.0-1) unstable; urgency=medium
+
+  * New upstream release (5.13.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 27 Aug 2015 18:35:57 +0200
+
+solid (5.13.0-0ubuntu1) wily; urgency=medium
+
+  * new upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 10 Aug 2015 13:36:52 +0200
+
+solid (5.12.0-1) unstable; urgency=medium
+
+  * New upstream release (5.12.0).
+  * Update symbols files for gcc5 compatibility. (Closes: #791738)
+    Thanks to Martin Michlmayr
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 09 Jul 2015 12:43:16 +0200
+
+solid (5.12.0-0ubuntu1) wily; urgency=medium
+
+  [ Scarlett Clark ]
+  * New upstream release
+
+  [ José Manuel Santamaría Lema ]
+  * Update symbols file: mark as optional the symbols gone after
+    building with GCC 5
+
+  [ Scarlett Clark ]
+  * Remove misplaced backport.
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 03 Aug 2015 16:12:31 +0200
+
+solid (5.11.0-1) unstable; urgency=medium
+
+  [ Maximiliano Curia ]
+  * New upstream release (5.10.0).
+  * New upstream release (5.11.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 26 Jun 2015 17:04:16 +0200
+
+solid (5.10.0-0ubuntu1) wily; urgency=medium
+
+  [ Jonathan Riddell ]
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 03 Jun 2015 21:03:54 +0200
+
+solid (5.9.0-1) experimental; urgency=medium
+
+  * New upstream release (5.9.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 23 Apr 2015 08:25:31 +0200
+
+solid (5.9.0-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 13 Apr 2015 23:20:12 +0200
+
+solid (5.8.0-1) experimental; urgency=medium
+
+  * New upstream release (5.8.0).
+  * Update symbols files.
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 14 Mar 2015 22:27:07 +0100
+
+solid (5.8.0-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 17 Mar 2015 15:46:36 +0100
+
+solid (5.7.0-1) experimental; urgency=medium
+
+  * New upstream release (5.7.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 04 Mar 2015 17:45:34 +0100
+
+solid (5.7.0-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release
+
+ -- Harald Sitter <sitter@kde.org>  Tue, 10 Feb 2015 16:51:02 +0100
+
+solid (5.6.0-1) experimental; urgency=medium
+
+  [ Harald Sitter ]
+  * Do not build depend on qt5-default, we only need qtbase5-dev
+
+  [ Maximiliano Curia ]
+  * New upstream release (5.6.0).
+  * Bump build dependencies to build against the experimental versions.
+  * Bump Standards-Version to 3.9.6, no changes needed.
+  * Update install files.
+  * Update build dependencies to follow cmake.
+  * Update copyright information.
+  * Add basic autopkgtests support.
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 24 Jan 2015 18:57:50 +0100
+
+solid (5.6.0-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 06 Jan 2015 20:12:45 +0100
+
+solid (5.5.0-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 15 Dec 2014 12:46:55 +0100
+
+solid (5.4.0-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 07 Nov 2014 15:04:02 +0100
+
+solid (5.3.0-0ubuntu1) utopic; urgency=medium
+
+  [ Harald Sitter ]
+  * Do not build depend on qt5-default, we only need qtbase5-dev
+
+  [ Jonathan Riddell ]
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 07 Oct 2014 11:13:34 +0100
+
+solid (5.2.0-0ubuntu1) utopic; urgency=medium
+
+  [ Jonathan Riddell ]
+  * New upstream release
+  * Use pkg-kde-tools version 3 scripts
+
+  [ Scarlett Clark ]
+  * Fix qml-module-org-kde-solid.install to reflect new paths.
+  * Move copyright extra details to comment to silence
+    space-in-std-shortname-in-dep5-copyright lintian error.
+  * Revert to original install paths. Upstream Review:120229
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 22 Sep 2014 19:35:42 +0200
+
+solid (5.1.0-0ubuntu1) utopic; urgency=medium
+
+  * New upstream release
+
+ -- Scarlett Clark <scarlett@scarlettgatelyclark.com>  Tue, 05 Aug 2014 17:08:07 +0200
+
+solid (5.0.0-0ubuntu3) utopic; urgency=medium
+
+  [ Jonathan Riddell ]
+  * Make symbols file have an implicit dependency on
+    qml-module-org-kde-solid
+
+  [ José Manuel Santamaría Lema ]
+  * Update libraries *.install paths so a soname bump doesn't go
+    unnoticed.
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 23 Jul 2014 17:42:42 +0200
+
+solid (5.0.0-0ubuntu2) utopic; urgency=medium
+
+  * Update copyright to match licensing to source
+  * Rename qml package to qml-module naming scheme
+
+ -- Scarlett Clark <scarlett@scarlettgatelyclark.com>  Wed, 16 Jul 2014 09:13:48 -0700
+
+solid (5.0.0-0ubuntu1) utopic; urgency=medium
+
+  [ Jonathan Riddell ]
+  * Initial stable upstream release
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Thu, 10 Jul 2014 17:30:10 +0200

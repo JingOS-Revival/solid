@@ -1,0 +1,20 @@
+maintainer:
+description: Hardware integration and detection
+tier: 1
+type: integration
+platforms:
+    - name: Linux
+    - name: FreeBSD
+    - name: Windows
+    - name: MacOSX
+portingAid: false
+deprecated: false
+release: true
+libraries:
+ - qmake: Solid
+   cmake: "KF5::Solid"
+cmakename: KF5Solid
+
+public_lib: true
+group: Frameworks
+subgroup: Tier 1

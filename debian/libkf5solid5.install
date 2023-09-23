@@ -1,0 +1,4 @@
+usr/lib/*/libKF5Solid.so.5
+usr/lib/*/libKF5Solid.so.5.*
+usr/share/qlogging-categories5/
+etc/jingos/udisks/
